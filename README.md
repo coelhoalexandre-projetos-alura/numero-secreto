@@ -49,21 +49,25 @@ Observações sobre a funcionalidade:
   <img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/numero-secreto-valor-invalido.jpg" alt="">
 </div>
 
+<br>
+
 - Dizer algo que seja um **número inferior a 1 ou superior a 1000** irá retonrar como "Valor inválido: Fale um número entre 1 e 1000.
   
 <div align="center">
   <img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/numero-secreto-numero-invalido.jpg" alt="">
 </div>
 
+<br>
 
 - Dizer um **número válido** irá retornar uma das duas opções:
   - "O número secreto é maior", caso o número secreto seja **superior ao número válido**;
   - "O número secreto é menor", caso o número secreto seja **inferior ao número válido**;
-  
+
 <div align="center">
   <img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/numero-secreto-numero-maior.jpg" alt="">
 </div>
 
+<br>
 
 - Dizer um número válido que corresponde ao número secreto irá alterar o conteudo da pagina para a do **"Você acertou!"**
   
@@ -75,17 +79,14 @@ Observações sobre a funcionalidade:
 - Ao pressionar o botão **"Jogar Novamente"** da página "Você acertou!" irá recarregar a página.
  
 ## Tecnolgias Utilizadas
-  
+
+**Width 1920px** <br>
 <div align="center">
-  <img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/numero-secreto-1920px.jpg" alt="">
+  <img src="https://github.com/coelhoalexandre/projetos-alura/blob/main/imagens/numero-secreto-1920px.jpg" alt="Numero Secreto Width 1920px">
 </div>
 
 ## Autor
-
-- Nome(s), redes e forma de contato. 
-- Talvez um breve resumo sobre cada um.
-
-Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. [Falar sobre meu papel no projeto, seu eu fiz tudo ou só modifiquei.
+Meu nome é **Alexandre Coelho**, sou autor deste ReadMe e estudante de Desenvolvimento Web. Fiz esse projeto do zero com a instrução de [**Guilherme Lima**](https://github.com/guilhermeonrails).
 
 Logo abaixo estão os meus principais links, fique a vontade de acessar o que mais lhe interessar:
 
